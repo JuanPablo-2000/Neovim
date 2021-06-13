@@ -1,0 +1,15 @@
+Comandos Básicos y Navegación.
+
+'w' => nos mueve al pricipio de la palabra.
+'e' => nos mueve al final de la palabra.
+'w' => nos mueve al pricipio de la palabra anterior.
+'hjkl' => nos movemos respectivamente hacia la izquierda, abajo, arriba, derecha.
+'i' 'a' => nos permite insertar.
+'I' 'A' = nos permite insertar al pricipio de la palabra ó al final de la palabra.
+'d' 'D' => nos permite borrar una palabra utilizando 'dw' ó toda la linea.
+'x' 'X' => nos permite borrar una letra ó la letra anterios a esa.
+'c' 'C' => nos permite borrar y luego automaticamente nos pone en modo insertar.
+'s' 'S' => nos permite borrar la letra | toda la linea y nos pone en modo insertar.
+'u' 'ctrl-u' => nos permite deshacer los cambios | nos permite rehacer.
+':w' => guarda los archivos.
+':e <nombre archivo>' => nos permite abrir archivos.
